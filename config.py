@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "/Maverick"
 template = "Galileo"
 index_page_size = 10
 archives_page_size = 30
